@@ -38,7 +38,7 @@ java --module-path "<path-to-javafx-sdk>" --add-modules javafx.controls -jar A-M
 
 ## Credits
 
-References
+References  
 https://openjfx.io/openjfx-docs/#install-javafx
 https://docs.oracle.com/javafx/2/api/
 https://docs.oracle.com/javase/8/javafx/api/overview-summary.html
@@ -49,46 +49,46 @@ https://stackoverflow.com/questions/21936585/transparent-background-of-a-textare
 https://gamedev.stackexchange.com/questions/168035/javafx-how-do-i-create-a-health-bar
 https://www.youtube.com/watch?v=N2EmtYGLh4U
 
-Font
+Font  
 https://www.dafont.com/ancient-modern-tales.font
 
-Image Sources
-Backgrounds
-Menu Background
+Image Sources  
+Backgrounds  
+Menu Background  
 https://www.deviantart.com/zedotagger/art/FF-Black-Mage-648585416
 
-Map/Tileset
+Map/Tileset  
 https://ansimuz.itch.io/patreons-top-down-collection
 
-Winning Scene Background
+Winning Scene Background  
 https://medium.com/ph-d-stories/castles-and-dreams-or-robots-28cddc08207f?responsesOpen=true&sortBy=REVERSE_CHRON
 
-Sprites
-Mage Player
+Sprites  
+Mage Player  
 https://greenpixels.itch.io/pixel-art-assets-5
 
-Bat
+Bat  
 https://elthen.itch.io/bat-sprite-pack
 
-Arcane Archer
+Arcane Archer  
 https://astrobob.itch.io/arcane-archer
 
-Fireball
+Fireball  
 https://nyknck.itch.io/pixelarteffectfx017
 
-Teleportation Portal
+Teleportation Portal  
 https://pimen.itch.io/magical-animation-effects
 
-Hotbar
+Hotbar  
 https://mounirtohami.itch.io/pixel-art-gui-elements
 
-Health & Mana Icons
+Health & Mana Icons  
 https://hochupitsu.itch.io/heart-and-mana
 
-Coin
+Coin  
 https://laredgames.itch.io/gems-coins-free
 
-Potions
+Potions  
 https://admurin.itch.io/admurins-potions
 
 ## License
