@@ -1,7 +1,8 @@
 # A Mage's Return
 
 ![Java](https://img.shields.io/badge/java-20-orange)
-
+![![License MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/okkinn/A-Mages-Return/blob/main/LICENSE.txt)
+![JavaFX](https://img.shields.io/badge/javafx-20-orange)
 
 ## Description
 
