@@ -1,21 +1,16 @@
 # A Mage's Return
 
-![Java](https://img.shields.io/badge/java-20-orange)
-![![License MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/okkinn/A-Mages-Return/blob/main/LICENSE.txt)
-![JavaFX](https://img.shields.io/badge/javafx-20-orange)
+[![Java](https://img.shields.io/badge/java-20-orange)]()
+[![License MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/okkinn/A-Mages-Return/blob/main/LICENSE.txt)
+[![JavaFX](https://img.shields.io/badge/javafx-20-orange)]()
 
-## Description
+A Mage's Return is a Java-based shooter game developed using the JavaFX library as a mini-project for CMSC 22. It was developed to practice the design and application of OOP concepts-Abstraction, Encapsulation, Inheritance, and Polymorphism-in a working project.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+## Game Description
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Embark on a magical journey in "A Mage's Return," an shooter action game that follows the story of a mage transported to an unfamiliar world riddled with various enemies. The mage's ultimate goal is to amass enough magical energy in order to cast a powerful portal spell to return to his home world.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
