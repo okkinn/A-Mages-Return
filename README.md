@@ -33,7 +33,7 @@ Embark on a magical journey in "A Mage's Return," an shooter action game that fo
 
 To run the game through the terminal:
 ```
-    java --module-path "<path-to-javafx-sdk>" --add-modules javafx.controls -jar A-Mages-Return.jar
+java --module-path "<path-to-javafx-sdk>" --add-modules javafx.controls -jar A-Mages-Return.jar
 ```
 
 ## Credits
