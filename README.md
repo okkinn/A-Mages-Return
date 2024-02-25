@@ -1,5 +1,3 @@
-![Project Logo](https://raw.githubusercontent.com/okkinn/A-Mages-Return/main/src/Idle2.png)
-
 # A Mage's Return
 
 [![Java](https://img.shields.io/badge/java-20-orange)]()
