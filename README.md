@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/okkinn/A-Mages-Return/main/src/Idle2.png" width="400" />
-
+![Project Logo](https://raw.githubusercontent.com/okkinn/A-Mages-Return/main/src/Idle2.png)
 
 # A Mage's Return
 
