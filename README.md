@@ -1,3 +1,5 @@
+![Project Logo](https://raw.githubusercontent.com/okkinn/A-Mages-Return/main/src/Idle2.png)
+
 # A Mage's Return
 
 [![Java](https://img.shields.io/badge/java-20-orange)]()
@@ -10,7 +12,7 @@ A Mage's Return is a Java-based shooter game developed using the JavaFX library 
 
 Embark on a magical journey in "A Mage's Return," an shooter action game that follows the story of a mage transported to an unfamiliar world riddled with various enemies. The mage's ultimate goal is to amass enough magical energy in order to cast a powerful portal spell to return to his home world.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
