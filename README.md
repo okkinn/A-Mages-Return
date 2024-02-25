@@ -1,5 +1,8 @@
 # A Mage's Return
 
+![Java](https://img.shields.io/badge/java-20-orange)
+
+
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
