@@ -31,9 +31,11 @@ Embark on a magical journey in "A Mage's Return," an shooter action game that fo
 
 ## Usage
 
+Ensure the appropriate JavaFX SDK version for your Java version is installed, otherwise follow instructions [here](https://openjfx.io/openjfx-docs/#install-javafx)
+
 To run the game through the terminal:
 ```
-java --module-path "<path-to-javafx-sdk>" --add-modules javafx.controls -jar A-Mages-Return.jar
+java --module-path "<path-to-javafx-sdk/lib>" --add-modules javafx.controls -jar A-Mages-Return.jar
 ```
 
 ## Credits
