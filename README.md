@@ -6,7 +6,7 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/okkinn/A-Mages-Return/blob/main/LICENSE.txt)
 
 
-A Mage's Return is a Java-based shooter game developed using the JavaFX library as a mini-project for CMSC 22. It was developed to practice the design and application of OOP concepts-Abstraction, Encapsulation, Inheritance, and Polymorphism-in a working project.
+A Mage's Return is a Java-based shooter game developed using the JavaFX library. It was developed as a mini-project for CMSC 22 to practice the design and application of OOP concepts—Abstraction, Encapsulation, Inheritance, and Polymorphism—in a working project.
 
 ## Game Description
 
